@@ -1,1 +1,1 @@
-# Telco repositry
+# Telco reposiotry
